@@ -1,0 +1,33 @@
+{
+  "merkle_root": "0xe091cddbc5b29f0a1330adf1087aa51eed9f56a0eb2a408828598dfec4b1135c",
+  "proofs": [
+    {
+      "address": "0x1111111111111111111111111111111111111111",
+      "proof": [
+        "0x2ab0a4443bbea3fbe4d0e1503d11ff1367842fb0c8b28a5c8550f27599a40751",
+        "0x0aafebc39b02f78812dd98aa2d43138e57bf2e2129476469fcffb7c1d572f346"
+      ]
+    },
+    {
+      "address": "0x2222222222222222222222222222222222222222",
+      "proof": [
+        "0xe2c07404b8c1df4c46226425cac68c28d27a766bbddce62309f36724839b22c0",
+        "0x0aafebc39b02f78812dd98aa2d43138e57bf2e2129476469fcffb7c1d572f346"
+      ]
+    },
+    {
+      "address": "0x3333333333333333333333333333333333333333",
+      "proof": [
+        "0x4cfa6af4bfa0111fd5e7625d43e84cd2d40629cf6008219d2c0e30ed48abf8b6",
+        "0xceb8fb129798c63a249a5e3b28b5036e5d7dbd31ba9d0c736342af32fcabd7a6"
+      ]
+    },
+    {
+      "address": "0x4444444444444444444444444444444444444444",
+      "proof": [
+        "0x37d95e0aa71e34defa88b4c43498bc8b90207e31ad0ef4aa6f5bea78bd25a1ab",
+        "0xceb8fb129798c63a249a5e3b28b5036e5d7dbd31ba9d0c736342af32fcabd7a6"
+      ]
+    }
+  ]
+}
